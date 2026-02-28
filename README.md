@@ -52,6 +52,10 @@ Technical Skills:
 - Model Evaluation (Accuracy, F1-Score, Confusion Matrix)
 
 Data Visualization
+![Satisfied level Quisioner](kuisioner.png)
+![Satisfaction](satisfied.png)
+![Comparison Personal and Business](travel_comparison.png)
+
 
 
 📊 Dataset
