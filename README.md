@@ -156,6 +156,7 @@ Berdasarkan analisis:
 🧩 Why This Project Matters
 
 Project ini menunjukkan kemampuan saya dalam:
+
 ✔ Mengelola proyek data secara end-to-end
 ✔ Mengubah data mentah menjadi insight strategis
 ✔ Menghubungkan analisis teknis dengan dampak bisnis
