@@ -1,7 +1,9 @@
 ✈️ Airline Passenger Satisfaction Analysis
+
 End-to-End Data Analysis & Classification Project
 
 📌 Project Overview
+
 Industri penerbangan adalah industri dengan kompetisi tinggi, margin ketat, dan ekspektasi pelanggan yang terus meningkat.
 
 Project ini bertujuan untuk:
@@ -34,10 +36,12 @@ Saya percaya bahwa data bukan hanya angka, tetapi alat untuk membantu perusahaan
 
 🛠 Skills & Tools
 Programming:
+
 - Python
 - SQL
 
 Libraries:
+
 - pandas
 - numpy
 - matplotlib
@@ -45,6 +49,7 @@ Libraries:
 - scikit-learn
 
 Technical Skills:
+
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
@@ -59,6 +64,7 @@ Data Visualization
 
 
 📊 Dataset
+
 - Source: https://www.kaggle.com/code/andybrandycandy/airline-passenger-satisfaction
 - Jumlah Data: 103,904 rows
 - Jumlah Kolom: 25 features
@@ -66,6 +72,7 @@ Data Visualization
 - Isi Data: Survei kepuasan pelanggan maskapai penerbangan
 
 🔍 Data Preparation
+
 1️⃣ Data Cleaning
 - Menghapus kolom tidak relevan: Unnamed: 0, id
 - Menghapus kolom delay untuk menyederhanakan analisis
@@ -101,6 +108,7 @@ Layanan dengan tingkat ketidakpuasan tinggi:
 - Ease of online booking
 
 🤖 Machine Learning Modeling
+
 🔹 K-Nearest Neighbors (KNN)
 - n_neighbors = 3
 - Accuracy: 0.8600
@@ -117,9 +125,11 @@ Layanan dengan tingkat ketidakpuasan tinggi:
 - F1-Score: 0.8908
 
 📌 Kesimpulan:
+
 Decision Tree memberikan performa terbaik dan juga interpretabilitas tinggi untuk memahami faktor yang memengaruhi kepuasan.
 
 💡 Key Insights
+
 - Kenyamanan kursi dan kemudahan digital adalah driver utama kepuasan.
 - Penumpang Business Class memiliki tingkat kepuasan jauh lebih tinggi.
 - Layanan digital (wifi & online booking) adalah titik lemah utama.
@@ -152,6 +162,7 @@ Project ini menunjukkan kemampuan saya dalam:
 ✔ Membangun model prediktif yang interpretatif
 
 📌 Final Takeaway
+
 - Customer satisfaction bukan hanya tentang layanan terbaik, tetapi tentang mengetahui layanan mana yang paling berdampak terhadap loyalitas pelanggan. Dengan pendekatan berbasis data, maskapai dapat:
 - Mengoptimalkan investasi layanan
 - Meningkatkan retensi pelanggan
